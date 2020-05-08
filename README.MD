@@ -1,7 +1,7 @@
 # FINAL PROJECT 
 ## Word Document w/ Screen Shots (_downloadable_):
 
-* [click here to download word doc w/ screen shots](suarez_is218.docx)
+* [ASSIGNMENT 3: click here to download word doc](suarez_is218.docx)
 
 
 ### PREVIOUS Project Description
