@@ -1,8 +1,8 @@
 # FINAL PROJECT 
 ## Word Document w/ Screen Shots (_downloadable_):
 
-* [ASSIGNMENT 3: click here to download word doc](suarez_is218.docx)
-
+* [ASSIGNMENT 3 (pycharm & localhost:5000): D/L word doc w/ screenshots. ](suarez_is218.docx)
+* [ASSIGNMENT 4 (postman): D/L word doc W/ screenshots.](suarez_postman.docx)
 
 ### PREVIOUS Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
