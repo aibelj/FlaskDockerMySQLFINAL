@@ -1,27 +1,33 @@
-# Project Description
+# FINAL PROJECT 
+## Word Document w/ Screen Shots (_downloadable_):
+
+* [click here to download word doc w/ screen shots](suarez_is218.docx)
+
+
+### PREVIOUS Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
 
 [Download Assignment PDF Here](PPFSQL-Homework.pdf)
 
 [View Assignment Video Here](https://youtu.be/QbMWNgrfAFg)
 
-# Postman Screenshot
+##### Postman Screenshot
 ![postman request output](screenshots/postman.png)
 
-# SQL Data Screenshot
+##### SQL Data Screenshot
 ![pycharm data query](screenshots/query.png)
 
-# Bootstrap Screenshot
+##### Bootstrap Screenshot
 ![bootstrap](screenshots/bootstrap_screenshot.JPG)
 
-# Readings
+##### Readings
 * [What is an HTTP API?](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 * [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
 * [What is SQL?](http://www.sqlcourse.com/intro.html)
 * [What is MySQL](https://www.hostinger.com/tutorials/what-is-mysql)
 * [What is Docker Compose?](https://www.tutorialspoint.com/docker/docker_compose.htm)
 * [What is Flask?](https://en.wikipedia.org/wiki/Flask_(web_framework))
-# Useful Links
+##### Useful Links
 * [Flask Homepage and Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 * [JSON Spec Reference](https://www.json.org/json-en.html)
 * [SimpleJSON Reference](https://simplejson.readthedocs.io/en/latest/)
