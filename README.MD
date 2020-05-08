@@ -5,12 +5,14 @@
 * [ASSIGNMENT 3 (pycharm & localhost:5000): D/L word doc w/ screenshots. ](suarez_is218.docx)
 * [ASSIGNMENT 4 (postman): D/L word doc W/ screenshots.](suarez_postman.docx)
 
-### PREVIOUS Project Description
+### Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
 
 [Download Assignment PDF Here](PPFSQL-Homework.pdf)
 
 [View Assignment Video Here](https://youtu.be/QbMWNgrfAFg)
+
+### SCREENSHOTS FROM ASSIGNMENTS 1 & 2 FOUND BELOW:
 
 ##### Postman Screenshot
 ![postman request output](screenshots/postman.png)
