@@ -5,6 +5,19 @@
 * [ASSIGNMENT 3 (pycharm & localhost:5000): D/L word doc w/ screenshots. ](suarez_is218.docx)
 * [ASSIGNMENT 4 (postman): D/L word doc W/ screenshots.](suarez_postman.docx)
 
+## Screenshots (_also found in the above word documents_):
+* database ![postman request output](screenshots/db.png)
+* home ![postman request output](screenshots/hp.png)
+* data ![postman request output](screenshots/rec.png)
+* new data ![postman request output](screenshots/new_rec.png)
+* added data ![postman request output](screenshots/add.png)
+* deleted data ![postman request output](screenshots/delete.png)
+* postman ![postman request output](screenshots/pm.png)
+* get ![postman request output](screenshots/get.png)
+* post![postman request output](screenshots/post.png)
+* new  ![postman request output](screenshots/new_data.png)
+* put ![postman request output](screenshots/put.png) ![postman request output](screenshots/putB.png)
+* delete ![postman request output](screenshots/delete_req.png) ![postman request output](screenshots/delete_reqB.png)
 ### Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
 
